@@ -1,0 +1,21 @@
+from, to, weight, speaking, knowing, relation
+lg, lr, 3, 1, 1, 3
+lr, lg, 2, 1, 1, 3
+lg, yk, 3, 0, 0, 3
+yk, lg, 3, 0, 0, 3
+lg, bm, 1, , 1, 
+bm, lg, 1, , 1, 
+lr, bm, 2, 2, 1, 1
+bm, lr, 2, 2, 1, 1
+lr, yk, 2, 1, 1, 3
+yk, lr, 2, 1, 1, 3
+lr, ad, 3, 2, 3, 1
+ad, lr, 3, 2, 3, 1
+yk, bm, 0, 0, 0, 0
+bm, yk, 0, 0, 0, 0
+ad, yk, 0, 0, 0, 0
+yk, ad, 0, 0, 0, 0
+ad, lg, 0, 0, 0, 
+lg, ad, 0, 0, 0, 
+ad, bm, 0, 0, 0, 
+bm, ad, 0, 0, 0, 
