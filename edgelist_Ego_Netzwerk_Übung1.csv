@@ -11,11 +11,3 @@ lr,yk,2,1,1,2
 yk,lr,2,1,1,2
 lr,ad,3,2,2,1
 ad,lr,3,2,2,1
-yk,bm
-bm,yk
-ad,yk
-yk,ad
-ad,lg
-lg,ad
-ad,bm
-bm,ad
