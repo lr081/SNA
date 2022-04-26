@@ -1,0 +1,6 @@
+id, name, sex, nameorigin, age, religion, degree
+lr, Lisa-Marie Riffelt, 1, 1, 20, 1, 1 
+lg, Lara Gebhart, 1, 1, 20, 1, 1
+yk, Yasmin Köseli, 1, 2, 24, 2, 1
+bm, Benjamin Müller, 2, 1, 22, 2, 1
+ad, Andrea Deutschländer, 1, 1, 23, 1, 2
