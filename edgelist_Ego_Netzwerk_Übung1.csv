@@ -1,0 +1,13 @@
+from,to,weight,relation
+lg,lr,3,2
+lr,lg,2,2
+lg,yk,3,2
+yk,lg,3,2
+lg,bm,1,1
+bm,lg,1,1
+lr,bm,2,1
+bm,lr,2,1
+lr,yk,2,2
+yk,lr,2,2
+lr,ad,3,1
+ad,lr,3,1
